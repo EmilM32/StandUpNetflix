@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B40408</color>
+    <color name="colorBelt">#212121</color>
+    <color name="colorAccent">#E20506</color>
+    <color name="colorCard">#d9040404</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorPrimaryDark">#212121</color>
+    <color name="colorImdbHighlight">#DBA306</color>
+    <color name="colorImdbNormal">#E4BB1C</color>
+    <color name="colorBeltDark">#2f2f2f</color>
+</resources>

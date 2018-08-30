@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="NetflixButton" parent="Theme.AppCompat.Light">
+        <item name="colorControlHighlight">@color/colorAccent</item>
+        <item name="colorButtonNormal">@color/colorPrimary</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:text">@string/netflix_button</item>
+    </style>
+    <style name="IMDButton" parent="Theme.AppCompat.Light">
+        <item name="colorControlHighlight">@color/colorImdbHighlight</item>
+        <item name="colorButtonNormal">@color/colorImdbNormal</item>
+        <item name="android:text">@string/imdb_button</item>
+    </style>
+
+</resources>

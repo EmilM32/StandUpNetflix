@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Stand Up Netflix</string>
+    <string name="imdb_button">IMDB</string>
+    <string name="netflix_button">Netflix</string>
+    <string name="my_list">Moja lista</string>
+    <string name="close">Zamknij</string>
+    <string name="remove_from_my_list">Usunięto z mojej listy</string>
+    <string name="add_to_my_list">Dodano do mojej listy</string>
+    <string name="not_add">Nie dodano do listy</string>
+    <string name="no_interner_msg">Brak połączenia z Internetem</string>
+    <string name="button_ok">OK, Sprawdzę to!</string>
+</resources>

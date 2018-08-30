@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/action_sort"
+        android:title="sort"
+        android:icon="@drawable/ic_baseline_sort"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_favorite"
+        android:title="my_list"
+        android:icon="@drawable/ic_baseline_favorite"
+        app:showAsAction="ifRoom"/>
+
+</menu>
