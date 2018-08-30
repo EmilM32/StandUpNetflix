@@ -5,11 +5,9 @@ import android.content.Intent
 import android.net.Uri
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
-import android.view.View
 import android.widget.Toast
 import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.activity_single.*
-import kotlinx.android.synthetic.main.dialog_my_list.view.*
 import majer.standupnetflix.db.MylistDB
 import majer.standupnetflix.db.MylistDBTable
 
