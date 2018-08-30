@@ -10,17 +10,12 @@ import android.support.v7.app.AlertDialog
 import android.support.v7.app.AppCompatActivity
 import android.support.v7.widget.LinearLayoutManager
 import android.view.View
-import android.widget.TextView
 import android.widget.Toast
 import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.activity_my_list.*
-import kotlinx.android.synthetic.main.activity_single.*
-import kotlinx.android.synthetic.main.dialog_my_list.*
 import kotlinx.android.synthetic.main.dialog_my_list.view.*
-import kotlinx.android.synthetic.main.single_my_list.view.*
 import majer.standupnetflix.db.MylistDB
 import majer.standupnetflix.db.MylistDBTable
-import majer.todolist.ClickListener
 
 class MyList : AppCompatActivity() {
 

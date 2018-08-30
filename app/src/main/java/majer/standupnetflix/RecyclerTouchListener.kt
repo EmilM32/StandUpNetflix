@@ -4,7 +4,6 @@ import android.content.Context
 import android.support.v7.widget.RecyclerView
 import android.view.GestureDetector
 import android.view.MotionEvent
-import majer.todolist.ClickListener
 
 internal class RecyclerTouchListener(context: Context, recyclerView: RecyclerView,
                                      private val clickListener: ClickListener?) : RecyclerView.OnItemTouchListener {

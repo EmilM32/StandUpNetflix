@@ -1,4 +1,4 @@
-package majer.todolist
+package majer.standupnetflix
 
 import android.view.View
 
